@@ -151,8 +151,3 @@ fun Button(){
     }
 }
 
-@Preview
-@Composable
-fun DefaultPreview(){
-
-}
